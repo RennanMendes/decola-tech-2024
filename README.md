@@ -8,7 +8,7 @@ O programa conta com uma trilha educacional online focada em .NET, onde os candi
 O foco deste repositório é armazenar os desafios de projetos, sendo eles:
 
   - [Construindo um Sistema para um Estacionamento com C#](desafio-estacionamento)
-  - Criando um Sistema e Abstraindo um Celular com POO em C#
+  - [Criando um Sistema e Abstraindo um Celular com POO em C#](/abstraindo-um-celular-com-poo)
   - Implementando Validações de Testes Unitários com C#
 
 Caso tenha interesse você pode conhcer e participar dos bootcamps da Digital Innovation One clicando neste link: [dio.me](https://web.dio.me)
